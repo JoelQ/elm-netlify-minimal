@@ -15,6 +15,8 @@ already there when building production.
 
 ## Setting up Netlify
 
+![Netlify config screen](https://user-images.githubusercontent.com/1006966/98046824-dce4a900-1df8-11eb-8584-c2b5c8b8c8ef.jpg)
+
 I logged into Netlify, created a new site, and linked it to this repo. I had to
 give it a command to build the Elm app:
 
