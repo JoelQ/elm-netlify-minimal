@@ -1,5 +1,7 @@
 # Minimal Elm deploy to Netlify
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/63fc9b73-072a-4fe2-9b05-ac64857bbcd1/deploy-status)](https://app.netlify.com/sites/elm-netlify-minimal/deploys)
+
 This is a minimal example [Elm](elm-lang.org) app that is deployed to
 [Netlify](https://www.netlify.com/).
 
