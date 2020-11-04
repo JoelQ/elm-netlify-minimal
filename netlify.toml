@@ -1,0 +1,6 @@
+[build]
+  publish = "dist/"
+  command = "yarn elm make src/Main.elm --output=dist/index.html"
+
+[build.environment]
+  ELM_HOME = "$NETLIFY_BUILD_BASE/cache/elm"
