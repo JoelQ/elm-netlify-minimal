@@ -12,6 +12,13 @@ which allows you to initialize your own repo with the same files and directories
 as this (but not the history). To start using, click the big "Use this template"
 button at the top of the page
 
+## More complex setups
+
+For more realistic apps, you will want to use more than the Elm compiler. Likely
+you will want a bundler like [Parcel](https://parceljs.org/). See the [sister
+`elm-netlify-parcel` project](https://github.com/JoelQ/elm-netlify-parcel) for a
+starter that includes it.
+
 ## A note on the Elm compiler
 
 Instead of relying on a system-wide install of the Elm compiler on my local
