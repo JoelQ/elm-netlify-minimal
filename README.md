@@ -5,11 +5,14 @@
 This is a minimal example [Elm](elm-lang.org) app that is deployed to
 [Netlify](https://www.netlify.com/).
 
-## Setting up Netlify
+## Using this yourself
 
-You can fork this repo in GitHub and set it up with Netlify builds by clicking the "Deploy to Netlify" button. The `netlify.toml` file has the config set up with the build command.
+This is a [GitHub template repository](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
+which allows you to initialize your own repo with the same files and directories
+as this (but not the history). To start using, click the big "Use this template"
+button at the top of the page
 
-## Elm compiler
+## A note on the Elm compiler
 
 Instead of relying on a system-wide install of the Elm compiler on my local
 machine, I installed a local version to `node_modules` via Yarn. You can see
