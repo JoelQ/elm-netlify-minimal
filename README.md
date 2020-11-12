@@ -26,3 +26,7 @@ machine, I installed a local version to `node_modules` via Yarn. You can see
 this in the `package.json` file. This allows me to build the app using my own
 version of the compiler on Netlify instead of depending on them having something
 already there when building production.
+
+## License
+
+The repo is provided under the [MIT License](LICENSE).
