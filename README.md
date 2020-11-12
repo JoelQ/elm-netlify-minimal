@@ -2,8 +2,8 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/63fc9b73-072a-4fe2-9b05-ac64857bbcd1/deploy-status)](https://app.netlify.com/sites/elm-netlify-minimal/deploys) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/JoelQ/elm-netlify-minimal)
 
-This is a minimal example [Elm](elm-lang.org) app that is deployed to
-[Netlify](https://www.netlify.com/).
+This is a minimal example [Elm](https://elm-lang.org) app that is deployed to
+[Netlify](https://www.netlify.com/) (see the [live site](https://elm-netlify-minimal.netlify.app)).
 
 ## Using this yourself
 
